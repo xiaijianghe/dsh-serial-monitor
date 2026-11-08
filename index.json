@@ -8,16 +8,15 @@
     {
       "name": "dsh-serial-monitor",
       "title": "串口监视器",
-      "description": "串口监视器插件，支持在线调参",
-      "author": "xiaijianghe",
-      "homepage": "https://github.com/xiaijianghe/dsh-serial-monitor#readme",
-      "repository": {
-        "url": "https://github.com/xiaijianghe/dsh-serial-monitor"
-      },
       "versions": [
         {
           "version": "0.1.0",
-          "url": "https://github.com/xiaijianghe/dsh-serial-monitor"
+          "publishTimestamp": 1730000000, 
+          "source": {
+            "type": "git",
+            "url": "https://github.com/xiaijianghe/dsh-serial-monitor",
+            "commit": "4801675" 
+          }
         }
       ]
     }
