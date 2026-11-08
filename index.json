@@ -21,7 +21,7 @@
           "source": {
             "type": "git",
             "url": "https://github.com/xiaijianghe/dsh-serial-monitor",
-            "commit": "4801675"
+            "commit": "022ceec841b30ea486d554e6f44a80d61b072103"
           }
         }
       ]
