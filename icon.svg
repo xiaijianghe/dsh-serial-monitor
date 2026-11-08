@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="serial-monitor-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2f7cf6"/>
+      <stop offset="1" stop-color="#0e9f8f"/>
+    </linearGradient>
+  </defs>
+  <rect x="5" y="5" width="54" height="54" rx="15" fill="url(#serial-monitor-bg)"/>
+  <rect x="18" y="23" width="28" height="18" rx="5" fill="none" stroke="#ffffff" stroke-width="3"/>
+  <path d="M24 23V16M32 23V16M40 23V16" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round"/>
+  <path d="M20 50c2.6-4 5.4-4 8 0s5.4 4 8 0 5.4-4 8 0" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" opacity="0.92"/>
+</svg>

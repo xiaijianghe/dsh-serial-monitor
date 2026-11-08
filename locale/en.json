@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Serial Monitor",
+    "description": "Read a COM port, auto-detect and name CSV channels, plot them, and tune the firmware online (PID defaults from source, targets, motor test, custom commands)."
+  }
+}
